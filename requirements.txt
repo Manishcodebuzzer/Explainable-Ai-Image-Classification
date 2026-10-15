@@ -1,0 +1,9 @@
+# PyTorch and Torchvision for Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Scientific computing and image processing
+numpy>=1.24.0
+matplotlib>=3.7.0
+opencv-python>=4.8.0
+pillow>=9.5.0

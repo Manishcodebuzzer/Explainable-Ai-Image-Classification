@@ -1,0 +1,26 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints and model weights
+models/*.pth
+!models/.gitkeep
+
+# Dataset downloads (CIFAR-10 raw files)
+data/*
+!data/.gitkeep
+
+# Output visualizations and evaluation plots
+results/*
+!results/.gitkeep
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+
+# OS and IDE caches
+.DS_Store
+.vscode/
+.idea/
